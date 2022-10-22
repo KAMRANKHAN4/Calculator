@@ -1,0 +1,274 @@
+.main {
+    width: 550px;
+    height: 650px;
+    background-color: green;
+    position: absolute;
+    top: 40px;
+    left: 300px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.pol {
+    width: 450px;
+    height: 560px;
+    background-color: black;
+    border-radius: 20px 20px 20px 20px;
+    position: absolute;
+    top: 85px;
+    left: 350px;
+}
+
+.jk {
+    width: 400px;
+    height: 75px;
+    background-color: antiquewhite;
+    position: absolute;
+    top: 120px;
+    left: 380px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.u {
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    position: absolute;
+    top: 225px;
+    left: 390px;
+    ;
+    border-radius: 10px 10px 10px 10px;
+}
+.sameer{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    /* position: absolute;
+    top:225 ;
+    left:500 ; */
+    position: absolute;
+    top: 225px;
+    left: 490px;
+    border-radius: 10px 10px 10px 10px; 
+}
+.time{
+
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    /* position: absolute;
+    top:225 ;
+    left:500 ; */
+    position: absolute;
+    top: 225px;
+    left: 580px;
+    border-radius: 10px 10px 10px 10px; 
+
+}
+.pl{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    position: absolute;
+    top: 225px;
+    left: 670px;
+    border-radius: 10px 10px 10px 10px; 
+}
+.q{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    position: absolute;
+    top: 340px;
+    left: 390px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+.w{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    position: absolute;
+    top: 340px;
+    left: 490px;
+    border-radius: 10px 10px 10px 10px;    
+}
+.e{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    position: absolute;
+    top: 340px;
+    left: 580px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+.r{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    position: absolute;
+    top: 340px;
+    left: 670px;
+    border-radius: 10px 10px 10px 10px;
+}
+.t{
+
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    position: absolute;
+    top: 445px;
+    left: 390px;
+    border-radius: 10px 10px 10px 10px;   
+}
+.a{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    position: absolute;
+    top: 445px;
+    left: 490px;
+    border-radius: 10px 10px 10px 10px;
+}
+.s{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    position: absolute;
+    top: 445px;
+    left: 580px;
+    border-radius: 10px 10px 10px 10px;  
+}
+.d{
+    height: 70px;
+    width: 65px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 445px;
+    left: 670px;
+    border-radius: 10px 10px 10px 10px;  
+}
+.z{
+/* width: 100px;
+height: 100px; */
+position: absolute;
+top: 130px;
+left: 680px;
+}
+.x{
+    position: absolute;
+    top: 220px;
+    left: 420px;  
+}
+.cu{
+    position: absolute;
+    top: 220px;
+    left: 520px;  
+}
+.v{
+    position: absolute;
+    top: 220px;
+    left: 610px;
+}   
+.b{
+    position: absolute;
+    top: 220px;
+    left: 700px;
+}
+.n{
+    position: absolute;
+    top: 335px;
+    left: 415px;
+}
+
+.m{position: absolute;
+top: 335px;
+left: 515px;}
+.nm{
+    position: absolute;
+top: 335px;
+left: 610px;
+}
+.pillay{
+    position: absolute;
+    top: 340px;
+    left: 700px;
+}
+.pill{
+    position: absolute;
+    top: 435px;
+    left: 415px;
+}
+.pilla{
+    position: absolute;
+top: 435px;
+left: 515px;
+}
+.pillae{
+    position: absolute;
+    top: 435px;
+    left: 605px;
+}
+.fil{
+    position: absolute;
+    top: 435px;
+    left: 700px;
+}
+.kamran{
+width: 70px ;
+height:70px ;
+background-color: rgb(255, 255, 255);
+position: absolute;
+top: 530px;
+left: 390px;
+border-radius: 10px 10px 10px 10px;
+}
+.kamrana{
+    width: 70px ;
+    height:70px ;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 530px;
+    left: 490px;
+    border-radius: 10px 10px 10px 10px;   
+}
+.kami{
+    width: 70px ;
+height:70px ;
+background-color: rgb(255, 255, 255);
+position: absolute;
+top: 530px;
+left: 580px;
+border-radius: 10px 10px 10px 10px;
+}
+.kamia{
+    width: 65px ;
+height:90px ;
+/* background-color: yellow; */
+/* background-color: rgb(255, 255, 255); */
+background-color: yellow;
+position: absolute;
+top: 530px;
+left: 670px;
+border-radius: 10px 10px 10px 10px;
+}
+.dog{
+    position: absolute;
+    top: 525px;
+    left:415px ;
+}
+.cat{
+    position: absolute;
+    top: 515px;
+    left:520px ;
+}
+.cato{
+    position: absolute;
+    top: 525px;
+    left:605px ;
+}
+.catoa{
+    position: absolute;
+    top: 535px;
+    left:695px ;
+}
